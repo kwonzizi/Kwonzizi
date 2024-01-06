@@ -11,11 +11,13 @@ I want to be a person who gives you new wisdom. ✨
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-orange"/>
   <img src="https://img.shields.io/badge/-Kotlin-blueviolet"/>
+  <img src="https://img.shields.io/badge/-Python-green"/>
   <br>
+  <img src="https://img.shields.io/badge/-SQL-blue"/>
   <img src="https://img.shields.io/badge/-html5-brightgreen"/>
   <img src="https://img.shields.io/badge/-css3-yellowgreen"/>
   <img src="https://img.shields.io/badge/-JavaScript-yellow"/>
-  <img src="https://img.shields.io/badge/-Python-blue"/>
+  
 </p>
 
 <h3 align="center">•••</h3>
