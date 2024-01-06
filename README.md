@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=30A9DE&height=170&section=header&text=👋%Hi!%20there👋&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=D8D8D6&height=170&section=header&text=👋%Hi!%20there👋&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 
 <h3 align="center"> ✨About me !✨ </h3>
@@ -27,4 +27,4 @@ I want to be a person who gives you new wisdom. ✨
   프로젝트 '콩콩' 시연 영상 https://youtu.be/tWFFNOV2Nso
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=2F5E8C&height=100&section=footer)
