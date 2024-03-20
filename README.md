@@ -24,7 +24,9 @@ I want to be a person who gives you new wisdom. ✨
 
 <p align="center">
 💬
-  프로젝트 '콩콩' 시연 영상 https://youtu.be/tWFFNOV2Nso
+  프로젝트 '콩콩' 시연 영상 https://youtu.be/tWFFNOV2Nso <br>
+  블로그 https://kwonzizi.tistory.com/
+  
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=2F5E8C&height=100&section=footer)
